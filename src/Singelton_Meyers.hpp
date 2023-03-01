@@ -8,7 +8,7 @@ public:
     Trader(const Trader&) = delete;
     Trader& operator=(const Trader&) = delete;
 
-    static Trader& get_instance() noexcept;
+    static Trader& instance() noexcept;
 
     void add_exchange_rate(const std::string&, const std::string&, double) noexcept;
     void change_exchange_rate(const std::string&, const std::string&, double) noexcept;

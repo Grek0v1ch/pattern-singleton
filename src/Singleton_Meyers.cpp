@@ -6,7 +6,7 @@
 
 using json = nlohmann::json;
 
-Trader& Trader::get_instance() noexcept {
+Trader& Trader::instance() noexcept {
     static Trader instance;
     return instance;
 }
