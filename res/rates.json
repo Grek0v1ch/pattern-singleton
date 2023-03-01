@@ -1,0 +1,27 @@
+[
+    {
+        "exchange1" : "RUB",
+        "exchange2" : "USD",
+        "rate" : 0.013289
+    },
+    {
+        "exchange1" : "USD",
+        "exchange2" : "RUB",
+        "rate" : 75.25
+    },
+    {
+        "exchange1" : "RUB",
+        "exchange2" : "EUR",
+        "rate" : 0.012484
+    },
+    {
+        "exchange1" : "EUR",
+        "exchange2" : "RUB",
+        "rate" : 80.1
+    },
+    {
+        "exchange1" : "RUB",
+        "exchange2" : "KZT",
+        "rate" : 5.92
+    }
+]
