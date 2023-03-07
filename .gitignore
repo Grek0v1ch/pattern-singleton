@@ -1,6 +1,1 @@
-# MacOS
 .DS_Store
-
-#CLion
-cmake-build-debug/
-.idea/
